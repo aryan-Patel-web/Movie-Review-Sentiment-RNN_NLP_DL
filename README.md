@@ -43,14 +43,9 @@ This repository provides an end-to-end deep learning solution for sentiment anal
 - `main.py` – Streamlit web app for deployment.
 - `requirements.txt` – List of required Python packages.
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 **Contributors:**  
-- Your Name
+- Name - Aryan patel
 
 ---
 
