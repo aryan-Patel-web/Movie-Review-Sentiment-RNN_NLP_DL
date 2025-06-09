@@ -14,7 +14,7 @@ This repository provides an end-to-end deep learning solution for sentiment anal
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/movie-review-sentiment-rnn.git
+   git clone https://github.com/aryan-Patel-web/movie-review-sentiment-rnn.git
    cd movie-review-sentiment-rnn
    ```
 
